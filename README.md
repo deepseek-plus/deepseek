@@ -3,6 +3,7 @@
 > 更新：2025/02/19    
 
 轻松使用 **[DeepSeek 网页版](https://chat.lify.vip)**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**   
+
 本指南提供最全面的 **DeepSeek 使用指南**，包含 [**DeepSeek 官网入口**](https://chat.lify.vip)、[**DeepSeek 网页版**](https://chat.lify.vip)、[**deepseek 下载**](https://chat.lify.vip)、[**DeepSeek 平替网站**](https://chat.lify.vip)、，助您顺畅使用 DeepSeek~
 
 ---
